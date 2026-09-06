@@ -1,6 +1,6 @@
 # GameCentralCS
 
-Status: Completed archive project
+Status: Completed game collection
 
 I built GameCentralCS as a Firebase-hosted collection of Unreal Engine HTML5 game experiments, including Flappy Fish with custom assets and a scoring overlay.
 
@@ -21,9 +21,9 @@ Flappy Fish started from a tutorial-style Flappy Bird clone and grew into my own
 - HTML5 export workflow
 - Firebase Hosting
 
-## Status Notes
+## What I Learned
 
-I keep this as an archive project. It shows early game development, web hosting, and deployment experimentation, but it should remain secondary to my current engineering direction.
+This project helped me learn how Unreal Engine projects are packaged, how browser-based game builds differ from desktop builds, and how much deployment friction can come from version-specific tooling. It was also useful practice in combining game logic, custom visual assets, hosting, and a playable web release.
 
 ## Portfolio
 
